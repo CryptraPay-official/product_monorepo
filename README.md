@@ -28,7 +28,7 @@ It ensures security, reliability, and fast communication with blockchain network
 - **Frontend:** Next.js / React / TailwindCSS  
 - **Backend:** Node.js / Express / TypeScript  
 - **Database:** MongoDB / Redis  
-- **Blockchain Integrations:** Solana, Ethereum, Binance Smart Chain (and more)  
+- **Blockchain Integrations:** Solana
 
 ---
 
